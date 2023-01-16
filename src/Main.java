@@ -10,7 +10,6 @@ public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader reader;
         String land,area;
-        StringBuilder lineCsv = new StringBuilder();
         List<String> filteredLands=new ArrayList<>();
         File csvFile = new File("result.txt");
         FileWriter fileWriter = new FileWriter(csvFile);
@@ -81,8 +80,9 @@ public class Main {
             totalScores.add(totalJerry);
             totalScores.add(totalMorty);
             totalScores.add(totalSummer);
-            Collections.sort(totalScores);
+            totalScores.sort(Comparator.comparing(s -> Integer.parseInt(s.replaceAll("\\D", ""))));
             for (String s : totalScores){
+                StringBuilder lineCsv = new StringBuilder();
                 lineCsv.append(s.toString());
                 lineCsv.append("\n");
                 fileWriter.write(lineCsv.toString());
