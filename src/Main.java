@@ -4,9 +4,6 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
-    public Main() throws IOException {
-    }
-
     public static void main(String[] args) throws IOException {
         BufferedReader reader;
         String land,area;
