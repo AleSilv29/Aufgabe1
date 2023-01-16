@@ -1,0 +1,38 @@
+1#Morty Smith#Never Ricking Morty#easy#4#win
+2#Rick Sanchez#Get Schwifty#hard#30#win
+3#Beth Smith#Pickle Rick#easy#8#fail
+4#Summer Smith#Full Meta Jackrick#hard#30#win
+5#Jerry Smith#Rickmurai Jack#easy#6#win
+6#Beth Smith#A Rickconvenient Mort#easy#8#win
+7#Morty Smith#Mortyplicity#hard#26#win
+8#Summer Smith#Summer's Sleepover#medium#16#fail
+9#Rick Sanchez#Forgetting Sarick Mortshall#easy#4#win
+10#Morty Smith#Forgetting Sarick Mortshall#hard#26#win
+11#Beth Smith#Final DeSmithation#medium#16#win
+12#Summer Smith#Final DeSmithation#medium#18#win
+13#Rick Sanchez#Pickle Rick#medium#16#win
+14#Jerry Smith#Mortynight Run#medium#18#fail
+15#Morty Smith#Mortynight Run#easy#8#win
+16#Summer Smith#Rickternal Friendshine of the Spotless Mort#easy#6#win
+17#Rick Sanchez#Rixty Minutes#easy#8#win
+18#Morty Smith#Pickle Rick#medium#14#win
+19#Jerry Smith#Anatomy Park#easy#6#win
+20#Rick Sanchez#Rickmurai Jack#hard#30#win
+21#Summer Smith#Ricksy Business#medium#18#win
+22#Beth Smith#Rixty Minutes#medium#18#fail
+23#Morty Smith#Final DeSmithation#medium#16#win
+24#Summer Smith#Get Schwifty#medium#16#win
+25#Jerry Smith#Promortyus#easy#8#fail
+26#Rick Sanchez#The ABC's of Beth#hard#26#win
+27#Beth Smith#Bethic Twinstinct#hard#28#win
+28#Morty Smith#Bethic Twinstinct#hard#22#win
+29#Summer Smith#Amortycan Grickfitti#easy#4#fail
+30#Rick Sanchez#Mortynight Run#hard#22#fail
+31#Jerry Smith#Never Ricking Morty#hard#22#fail
+32#Beth Smith#The ABC's of Beth#easy#8#win
+33#Rick Sanchez#Never Ricking Morty#hard#28#win
+34#Morty Smith#Rixty Minutes#hard#28#fail
+35#Summer Smith#Bethic Twinstinct#hard#28#win
+36#Beth Smith#Get Schwifty#hard#30#win
+37#Morty Smith#Get Schwifty#hard#22#win
+38#Jerry Smith#Full Meta Jackrick#easy#2#win
